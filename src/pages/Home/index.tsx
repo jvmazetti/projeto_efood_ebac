@@ -1,5 +1,5 @@
 import Footer from '../../Components/Footer'
-import Hero from '../../Components/Footer'
+import Hero from '../../Components/Hero'
 import Loader from '../../Components/Loader'
 import RestaurantList from '../../Components/RestaurantList'
 import { useGetRestaurantsQuery } from '../../services/api'
